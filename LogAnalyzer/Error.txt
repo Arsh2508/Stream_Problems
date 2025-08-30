@@ -1,0 +1,5 @@
+[ERROR] 2025-05-10 12:05:01 Database connection failed
+[ERROR] 2025-05-10 12:45:22 Disk write error
+[ERROR] 2025-05-10 13:10:30 Failed to send email
+[ERROR] 2025-05-10 13:45:00 Failed to connect to database
+[ERROR] 2025-05-10 15:30:00 File system corruption detected
