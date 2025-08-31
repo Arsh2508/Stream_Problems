@@ -1,0 +1,4 @@
+hello world hello code world code
+this is a test this is only a test
+C++ is fun and C++ is powerful and fun
+open the door open the window open the book

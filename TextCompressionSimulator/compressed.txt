@@ -1,0 +1,4 @@
+hello world * code * * 
+this is a test * * only * * 
+C++ * fun and * * powerful * * 
+open the door * * window * * book 
