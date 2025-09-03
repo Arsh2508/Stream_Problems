@@ -1,0 +1,4 @@
+TITLE: My Web Page
+HEADER: Welcome to my site!
+PARAGRAPH: This is a paragraph about my hobbies.
+PARAGRAPH: Another paragraph about my projects.
