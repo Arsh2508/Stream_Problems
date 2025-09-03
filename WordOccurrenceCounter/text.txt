@@ -1,0 +1,5 @@
+Apple,banana,apple,orange,
+Banana,orange,apple,
+Pear,apple,BANANA,
+apple,pear,ORANGE,orange,
+Grapes,grapes,grapes
