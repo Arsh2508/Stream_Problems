@@ -1,0 +1,7 @@
+This is a sample text file that we will use for testing our formatter program. 
+It contains several sentences, and it is intentionally written in a way that some lines are long enough 
+to test the word wrapping functionality properly. 
+
+The quick brown fox jumps over the lazy dog. 
+C++ is a powerful general-purpose programming language. 
+We are testing uppercase, wrapping, and prefix features.
